@@ -1,1 +1,22 @@
+# Airline Review Analysis
+
+## Description
+This project scrapes review data from Skytrax and performs sentiment analysis, topic modelling, and data visualization to derive insights from airline reviews.
+
+## Features
+- Data Scraping from Skytrax using BeautifulSoup
+- Data Cleaning and Text Preprocessing
+- Sentiment Analysis
+- Visualizations: WordClouds, Sentiment Distribution
+
+## Getting Started
+### Prerequisites
+- Python 3.x
+- Required libraries: `requests`, `BeautifulSoup`, `pandas`, `nltk`, `textblob`, `wordcloud`
+
+### Installation
+Clone the repository and install required dependencies:
+```bash
+git clone <repository_url>
+pip install -r requirements.txt
 
